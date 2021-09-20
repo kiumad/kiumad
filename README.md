@@ -1,4 +1,4 @@
-### Hi there, i'm ${your.username}.${your.repo.id} 👋
+### Hi there 👋
 
 <!--
 **kiumad/kiumad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
