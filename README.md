@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A frontend developer from Iran</h3>
+<h1 align="left">Hi 👋, I'm Mohammad</h1>
+<h3 align="left">A frontend developer from Iran</h3>
 
 - 🌱 I’m currently learning **vue js**
 
@@ -10,8 +10,6 @@
 - 📫 How to reach me **mirfatemi7@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kiumad/](https://www.linkedin.com/in/kiumad/)
-
-- ⚡ Fun fact **I Think I am so funny , ha ha ha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
