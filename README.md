@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mohammad</h1>
-<h3 align="left">A frontend developer from Iran</h3> - 🌱 I’m currently learning **vue js** - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kiumad/](https://www.linkedin.com/in/kiumad/) - 💬 Ask me about **frontend, javascrip** - 📫 How to reach me **mirfatemi7@gmail.com** - 📄 Know about my experiences [https://www.linkedin.com/in/kiumad/](https://www.linkedin.com/in/kiumad/) <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kiumad" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kiumad" height="30" width="40" />
