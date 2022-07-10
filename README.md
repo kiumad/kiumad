@@ -1,4 +1,3 @@
-<h1 align="left">Hi 👋, I'm Mohammad</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/kiumad" target="blank">
